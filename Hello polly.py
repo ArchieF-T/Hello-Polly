@@ -1,2 +1,3 @@
-print ("Hello Polly!") 
+print ("Hello Polly!")
+print ("Wakey Wakey Polly!") 
 #End of program
