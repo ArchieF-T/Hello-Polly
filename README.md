@@ -1,2 +1,2 @@
 # Hello-Polly
-Activity 1 - Operators
+Activity 1 - Data Types - Operators
